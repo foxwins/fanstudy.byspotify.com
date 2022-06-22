@@ -1,0 +1,24 @@
+{
+  "name": "fanstudy.byspotify.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node your-script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxwins/fanstudy.byspotify.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxwins/fanstudy.byspotify.com/issues"
+  },
+  "homepage": "https://github.com/foxwins/fanstudy.byspotify.com#readme",
+  "dependencies": {
+    "nuxt": "^2.13.3"
+  }
+}
